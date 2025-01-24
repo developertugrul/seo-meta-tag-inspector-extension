@@ -3,7 +3,7 @@
     "name": "SEO Meta Inspector by Chokqu",
     "version": "1.0.0",
     "description": "Analyze meta tags, OpenGraph, Twitter Cards and HTML structure for SEO optimization",
-    "author": "Chokqu | chokqu.com",
+    "author": "Tuğrul Yıldırım",
     "homepage_url": "https://chokqu.com",
     "permissions": [
       "activeTab",
